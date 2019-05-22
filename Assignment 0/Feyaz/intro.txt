@@ -1,0 +1,5 @@
+Hello!
+This is my profile, for the ACM NITK SMP.
+I need to write something here.
+Also I wasn't able to solve the issue, but I tried using git in terminal with another SMP, and it worked fine. I don't know why
+though.
